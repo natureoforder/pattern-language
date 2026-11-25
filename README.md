@@ -1,5 +1,10 @@
 Making Christopher Alexander and co's work including A Pattern Language more accessible online.
 
+## Reading and project notes
+
+- [Pattern shortlist](shortlist.md) for the Petit Bois Martin architects.
+- [The Timeless Way of Building reading notes](Timeless%20Way%20Notes.md).
+
 ## Motivation
 
 Have loved Christopher Alexander and co's work for more than 20 years.
